@@ -8,4 +8,4 @@ All players will be given the ability to 'DoubleJump'.
 
 Compiled versions avalible in the 'Releases' tab above. 
 
-Discord Support: https://discord.gg/ZSuMaVr
+Discord Support: https://nodexhost.com/discord
